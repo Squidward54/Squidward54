@@ -1,6 +1,7 @@
 # Future2Cake's personal repository
 
 I started with Javascript for discord in 2018-2021. In 2020 with pandemic i started learning Python.
+[![Discord Presence](https://lanyard.cnrad.dev/api/412254835849691146)](https://discord.com/users/295495347453689857)
 
 ![Future2Cake's GitHub stats](https://github-readme-stats.vercel.app/api?username=Squidward54&show_icons=true&theme=tokyonight)
 
