@@ -1,6 +1,7 @@
 # Future2Cake's personal repository
 
 I started with Javascript for discord in 2018-2021. In 2020 with pandemic i started learning Python.
+#
 [![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/TN69aw3)
 ### OS and Cloud Services
 [![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)](https://microsoft.com/windows)
